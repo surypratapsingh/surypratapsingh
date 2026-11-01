@@ -33,12 +33,8 @@
 | [Intervu AI Lite](https://github.com/surypratapsingh/intervu-ai-lite) | A browser-only mock interview with spoken answers, scoring and a PDF report. |
 | [Web Crawler Extension](https://github.com/surypratapsingh/simple-web-crawler-scraper-extension) | A Chrome extension and local MCP server that gives AI agents read-only access to your tabs. |
 
-## GitHub stats
+## GitHub activity
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=surypratapsingh&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=surypratapsingh&layout=compact&hide_border=true" alt="Top languages" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=surypratapsingh&hide_border=true" alt="GitHub streak" />
 </p>
