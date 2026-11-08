@@ -16,7 +16,7 @@ BCA @ CCS University · BS in Data Science @ IIT Madras · Bulandshahr, UP 🇮�
 
 ### ⚡ In numbers
 
-- **12+ apps shipped**, 11 of them live on the web
+- **13+ apps shipped**, 12 of them live on the web
 - **979 automated tests** in one finance app alone
 - **4 hackathons**: Smart India Hackathon 2025 · NASA Space Apps Ghaziabad · EY Hackathon · CodeSlayer 2k25
 - Building with **AI agent teams** (Claude, Gemini and others) and my own planning system
@@ -27,6 +27,7 @@ BCA @ CCS University · BS in Data Science @ IIT Madras · Bulandshahr, UP 🇮�
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
+| **Algo Adda** 🎮 | Desi 2D arcade game that teaches DSA from zero: 30 worlds, every level generated and checked by code, Hinglish lessons, offline PWA. **300+ tests.** | JavaScript · Canvas · PWA | [Play](https://algo-adda.vercel.app/) · 🔒 code private |
 | **Hisaab** | Offline-first personal finance app for India, built on a double-entry ledger, encrypted on-device. **979 tests.** | React Native · Expo · TypeScript · SQLCipher | [Live](https://hisaab-omega-ochre.vercel.app/) · [Code](https://github.com/surypratapsingh/hisaab) |
 | **Focus Study** | AI study planner: Pomodoro, exam-aware topic ranking, spaced repetition, bring-your-own-key Gemini tutor. | FastAPI · PostgreSQL · PWA · Kotlin | [Live](https://focus-study-nu.vercel.app/) · [Code](https://github.com/surypratapsingh/focus-study) |
 | **TechLab** | 3D phone repair simulator: open real devices, learn every part, fix broken ones. | React 19 · three.js · Zustand | [Live](https://techlab-repair-sim.vercel.app/) · [Code](https://github.com/surypratapsingh/techlab-repair-sim) |
@@ -49,7 +50,6 @@ BCA @ CCS University · BS in Data Science @ IIT Madras · Bulandshahr, UP 🇮�
 | **Aapka Gym** | Gym management app with member, reception, trainer and owner roles, built for a real gym. | Expo · React Native · Supabase |
 | **NSE Algo** | Trading bot for Indian stocks with backtesting, cost modelling, paper trading and swing strategies. Risk controls come first. | Python · pandas |
 | **Kaksha** | An AI whiteboard teacher that explains topics by drawing them, step by step. | HTML · JavaScript |
-| **DSA Arcade** | A desi 2D game that teaches data structures and algorithms from zero, level by level. *Coming soon.* | JavaScript · Canvas |
 
 ---
 
